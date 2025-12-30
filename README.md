@@ -2,12 +2,10 @@
 
 ## Software Engineer | Game & Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=janeuine&label=Profile%20Views&color=ff69b4&style=flat)
-![Commits](https://img.shields.io/badge/Commits-Active-brightgreen) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=janeuine&label=Profile%20Views&color=ff69b4&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ff69b4?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ff1493?style=flat)
 
-
-I focus on building practical, reliable software solutions.  
-My work spans game development, web applications, and technical problem-solving.
+I focus on building **practical, reliable software solutions**.  
+My work spans **game development**, **web applications**, and **technical problem-solving**.
 
 - 🎮 Develop games with clean and maintainable code  
 - 🌐 Build responsive and functional websites  
@@ -31,7 +29,7 @@ My work spans game development, web applications, and technical problem-solving.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
 
@@ -39,8 +37,8 @@ My work spans game development, web applications, and technical problem-solving.
 
 ## Approach
 
-I value clarity, correctness, and long-term maintainability over shortcuts.  
-My goal is to deliver solutions that work, scale, and remain understandable.
+I value **clarity, correctness, and long-term maintainability** over shortcuts.  
+My goal is to deliver solutions that **work, scale, and remain understandable**.
 
 ---
 
