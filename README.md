@@ -16,6 +16,12 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ---
 
+## GitHub Metrics
+
+![Metrics](https://github.com/janeuine/janeuine/blob/main/github-metrics.svg)
+
+---
+
 ## Languages and Tools
 
 <p align="left">
