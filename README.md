@@ -1,4 +1,5 @@
 # Hi 👋🏻, I'm Jeina
+<img src="https://raw.githubusercontent.com/janeuine/janeuine/main/2003.svg" />
 
 ## Software Engineer | Game & Web Developer
 
