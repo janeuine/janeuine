@@ -2,7 +2,7 @@
 
 ## Software Engineer | Game & Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=janeuine&label=Profile%20Views&color=ff69b4&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ff69b4?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ff1493?style=flat) ![Total Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&color=ff69b4&query=$.total_stars&url=https://raw.githubusercontent.com/janeuine/janeuine/main/stats.json) ![Total Forks](https://img.shields.io/badge/dynamic/json?label=Total%20Forks&color=ff1493&query=$.total_forks&url=https://raw.githubusercontent.com/janeuine/janeuine/main/stats.json)
+![Profile Views](https://komarev.com/ghpvc/?username=janeuine&label=Profile%20Views&color=ff69b4&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ff69b4?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ff1493?style=flat)
 
 I focus on building **practical, reliable software solutions**.  
 My work spans **game development**, **web applications**, and **technical problem-solving**.
