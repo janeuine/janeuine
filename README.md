@@ -1,4 +1,22 @@
 # Hi 👋🏻, I'm Jeina
+<p align="left">
+  <span style="
+    color:#ff69b4;
+    font-weight:600;
+    letter-spacing:2px;
+    animation: blink 1.5s infinite;
+  ">
+    A 2003 BABY
+  </span>
+</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.35; }
+  100% { opacity: 1; }
+}
+</style>
 
 ## Software Engineer | Game & Web Developer
 
