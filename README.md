@@ -18,7 +18,7 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ## GitHub Metrics
 
-![Metrics](https://github.com/janeuine/janeuine/blob/main/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/janeuine/janeuine/main/metrics_renders/github-metrics.svg)
 
 ---
 
