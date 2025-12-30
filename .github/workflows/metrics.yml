@@ -1,9 +1,23 @@
-- name: Run GitHub Metrics action
-  uses: lowlighter/metrics@latest
-  with:
-    filename: 'metrics_renders/github-metrics.svg'
-    base: 'base'
-    extras_css: |
-      .main { fill: #ff69b4 !important; }
-      .bar { fill: #ff1493 !important; }
-    github_token: ${{ secrets.GH_TOKEN }}
+name: Generate GitHub Metrics
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run GitHub Metrics action
+        uses: lowlighter/metrics@latest
+        with:
+          filename: 'metrics_renders/github-metrics.svg'
+          base: 'base'
+          extras_css: |
+            .main { fill: #ff69b4 !important; }
+            .bar { fill: #ff1493 !important; }
+          github_token: ${{ secrets.GH_TOKEN }}
