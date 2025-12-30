@@ -3,7 +3,7 @@
 ## Software Engineer | Game & Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janeuine&label=Profile%20Views&color=ff69b4&style=flat)
-![Commits](https://img.shields.io/badge/Commits-Active-brightgreen) ![Focus](https://img.shields.io/badge/Focus-Mobile%20%26%20Backend-blue) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-orange)
+![Commits](https://img.shields.io/badge/Commits-Active-brightgreen) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-blue)
 
 
 I focus on building practical, reliable software solutions.  
@@ -27,6 +27,11 @@ My work spans game development, web applications, and technical problem-solving.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
 ---
