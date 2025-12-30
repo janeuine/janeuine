@@ -18,13 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: 'metrics_renders/github-metrics.svg'
-          base: 'base'  # valid input, default style
+          base: 'base'
           extras_css: |
-            /* Pink theme example */
-            .main {
-              fill: #ff69b4 !important;
-            }
-            .bar {
-              fill: #ff1493 !important;
-            }
-            /* Add or adjust selectors for more pink styling */
+            .main { fill: #ff69b4 !important; }
+            .bar { fill: #ff1493 !important; }
