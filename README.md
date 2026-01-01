@@ -56,18 +56,18 @@ My work spans **game development**, **web applications**, and **technical proble
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=janeuine&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=janeuine&show_icons=true&theme=rose_pine&hide_border=true" 
     height="165"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=janeuine&theme=tokyonight" 
+    src="https://streak-stats.demolab.com?user=janeuine&theme=rose_pine&hide_border=true" 
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=rose_pine&hide_border=true"
   />
 </p>
 
