@@ -52,6 +52,17 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janeuine&show_icons=true&theme=rose_pine&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=janeuine&theme=rose_pine&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+---
+
 ## Approach
 
 I value **clarity, correctness, and long-term maintainability** over shortcuts.  
