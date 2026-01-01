@@ -56,7 +56,7 @@ My work spans **game development**, **web applications**, and **technical proble
 # GitHub Stats
 ![](https://streak-stats.vercel.app?user=janeuine&theme=rose_pine&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&theme=rose_pine&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=rose_pine&hide_border=true)
 
 ---
 
