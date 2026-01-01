@@ -57,18 +57,6 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ---
 
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=radical&langs_count=3)
-
-## Most Used Languages Breakdown (Java, Python, C++)
-
-![Java Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=radical&langs_count=3&count_private=true&langs=Java)
-![Python Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=radical&langs_count=3&count_private=true&langs=Python)
-![C++ Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=radical&langs_count=3&count_private=true&langs=C++)
-
----
-
 ## Approach
 
 I value **clarity, correctness, and long-term maintainability** over shortcuts.  
