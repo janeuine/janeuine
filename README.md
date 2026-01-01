@@ -55,12 +55,12 @@ My work spans **game development**, **web applications**, and **technical proble
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?janeuine&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=janeuine&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
