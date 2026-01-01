@@ -51,7 +51,6 @@ My work spans **game development**, **web applications**, and **technical proble
 ---
 
 # GitHub Stats:
-
 <p align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=janeuine&theme=dark&hide_border=false)<br/>
