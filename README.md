@@ -52,18 +52,6 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ---
 
-## GitHub Stats
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=E0A6F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Game+%26+Web+Developer;Learning+Everyday)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janeuine&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.vercel.app?user=janeuine&theme=rose_pine&hide_border=true&mode=daily)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=rose_pine&hide_border=true&langs_count=8)
-
----
-
 ## Approach
 
 I value **clarity, correctness, and long-term maintainability** over shortcuts.  
