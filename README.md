@@ -51,12 +51,11 @@ My work spans **game development**, **web applications**, and **technical proble
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=janeuine&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=janeuine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# GitHub Stats
-![](https://streak-stats.vercel.app?user=janeuine&theme=rose_pine&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&layout=compact&theme=rose_pine&hide_border=true)
+# GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=janeuine&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
