@@ -19,7 +19,7 @@ My work spans **game development**, **web applications**, and **technical proble
 ## Languages and Tools
 
 <p align="left">
-  <!-- Existing -->
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -50,14 +50,10 @@ My work spans **game development**, **web applications**, and **technical proble
 
 ---
 
-## Github Stats
+# GitHub Stats:
 
 <p align="center">
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=janeuine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# GitHub Stats:
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=janeuine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janeuine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
